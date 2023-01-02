@@ -32,7 +32,7 @@
          1. Neural Network
          1. Bagging Classifier
       1. Regression
-         1. Linear Regression
+         1. [Linear Regression](https://github.com/24ERIC/AI-ML/blob/master/ML/Supervised%20learning/Regression/Linear%20Regression/ReadME.md)
          1. Polynomial regression
          1. Multivariate Regression 
          1. Lasso Regression
