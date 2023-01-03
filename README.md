@@ -8,6 +8,8 @@
    - matplotlib
    - seaborn
    - cufflinks
+   - plotly
+   - 
 - ML
    - sklearn
    - Scikit-Learn
