@@ -1,6 +1,22 @@
-# Data Analysis
+# Packages
 
-###### numpy, pandas, scipy, sklearn, Scikit-Learn, xgboost, tensorflow, flask, fastapi, pydantic, LightGBM, PyTorch, Keras, H2O, SHAP, Catboost
+- Data
+   - pandas
+   - numpy
+   - 
+- Plot
+   - matplotlib
+   - seaborn
+   - cufflinks
+- ML
+   - sklearn
+   - Scikit-Learn
+   - tensorflow
+   - PyTorch
+   - 
+
+
+# Data Analysis
 
 - Importing Data with Pandas
 - Exploring Data through Visualizations with Matplotlib
