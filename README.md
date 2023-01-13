@@ -1,4 +1,4 @@
-# 1 - Data Acquisition
+# 1 - Data Acquisition ✅
 
 - get data From Kaggle
 - Importing Data with Pandas
