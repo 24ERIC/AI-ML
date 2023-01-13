@@ -1,35 +1,22 @@
-# Packages
+# 1 - Data Acquisition
 
-- Data
-   - pandas
-   - numpy
-   - 
-- Plot
-   - matplotlib
-   - seaborn
-   - cufflinks
-   - plotly
-   - 
-- ML
-   - sklearn
-   - Scikit-Learn
-   - tensorflow
-   - PyTorch
-   - 
-
-
-# Data Analysis
-
+- get data From Kaggle
 - Importing Data with Pandas
-- Exploring Data through Visualizations with Matplotlib
 
 
-# Data Preprocessing
 
-- Cleaning Data
+# 2 - Data Cleaning
+
 - Missing value treatment
+
+
+
+# 3 - Data Analysis - guess best ML Model
+
+- Exploring Data through Visualizations with Matplotlib
 - Feature scaling
 - One-hot encoding
+
 
 
 # Model Building
@@ -111,9 +98,24 @@
 
 
 
+# Packages
 
-
-
+- Data
+   - pandas
+   - numpy
+   - 
+- Plot
+   - matplotlib
+   - seaborn
+   - cufflinks
+   - plotly
+   - 
+- ML
+   - sklearn
+   - Scikit-Learn
+   - tensorflow
+   - PyTorch
+   - 
 
     
     
