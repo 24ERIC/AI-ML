@@ -119,3 +119,15 @@
 
     
     
+# Top 10 skills for ML
+
+1.   Applied Mathematics:
+2.   Computer Science Fundamentals and Programming Languages:
+3.   Spark And Hadoop:
+4.  Natural Language, Audio, And Video Processing:
+5.   Signal Processing Technique:
+6.   Neural Network:
+7.   Data Modelling and Architecture:
+8.   Reinforcement Learning:
+9.   Distributed Computing:
+10.   Rapid Prototyping:
